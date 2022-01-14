@@ -1,0 +1,7 @@
+/*--------------------
+   Top players start 
+   --------------------*/
+.players {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
